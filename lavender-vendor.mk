@@ -1866,7 +1866,6 @@ PRODUCT_PACKAGES += \
     libtime_genoff \
     SoterService \
     WfdService \
-    com.qualcomm.location \
     CneApp \
     FingerprintExtensionService \
     IWlanService \
